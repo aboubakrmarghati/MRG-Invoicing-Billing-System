@@ -21,7 +21,7 @@ Setup Instructions
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/mrg-invoicing-billing-system.git
+git clone https://github.com/aboubakrmarghati/MRG-Invoicing-Billing-System.git
 Import the database.sql file into your MySQL database.
 Configure database credentials in php/config.php.
 Run the application on a local server (e.g., XAMPP, WAMP).
